@@ -3,3 +3,7 @@
 platforms/
 plugins/
 
+# vscode IDE
+.vscode
+jsconfig.json
+typings/
