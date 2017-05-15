@@ -2,6 +2,7 @@
 # Use cordova prepare [android|ios] to install files in the following directories
 platforms/
 plugins/
+node_modules/
 
 # vscode IDE
 .vscode
